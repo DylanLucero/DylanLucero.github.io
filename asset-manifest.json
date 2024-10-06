@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DylanLucero.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/DylanLucero.github.io/static/js/main.26d07ed6.js",
-    "static/js/453.e2d4b7ea.chunk.js": "/DylanLucero.github.io/static/js/453.e2d4b7ea.chunk.js",
-    "static/media/logo.svg": "/DylanLucero.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/DylanLucero.github.io/index.html",
-    "main.f855e6bc.css.map": "/DylanLucero.github.io/static/css/main.f855e6bc.css.map",
-    "main.26d07ed6.js.map": "/DylanLucero.github.io/static/js/main.26d07ed6.js.map",
-    "453.e2d4b7ea.chunk.js.map": "/DylanLucero.github.io/static/js/453.e2d4b7ea.chunk.js.map"
+    "main.css": "/dylanlucero/static/css/main.f855e6bc.css",
+    "main.js": "/dylanlucero/static/js/main.21c4b4b2.js",
+    "static/js/453.e2d4b7ea.chunk.js": "/dylanlucero/static/js/453.e2d4b7ea.chunk.js",
+    "static/media/logo.svg": "/dylanlucero/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dylanlucero/index.html",
+    "main.f855e6bc.css.map": "/dylanlucero/static/css/main.f855e6bc.css.map",
+    "main.21c4b4b2.js.map": "/dylanlucero/static/js/main.21c4b4b2.js.map",
+    "453.e2d4b7ea.chunk.js.map": "/dylanlucero/static/js/453.e2d4b7ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.26d07ed6.js"
+    "static/js/main.21c4b4b2.js"
   ]
 }
